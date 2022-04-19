@@ -1,1 +1,1 @@
-# javascriptBasics 😃
+# javascriptBasics 👨‍💻
